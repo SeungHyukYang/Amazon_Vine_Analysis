@@ -14,3 +14,5 @@ The purpose of this project is to analyze amazon reviews written by members of t
 ## Summary
 
 The group of unpaid reviews were significantly larger than paid group and unpaid review group tend to rate 5 stars more often in sports product than paid review group. 
+It is hard to determine the unpaid or paid are biased since the data set doesn't provide variables that potentially affect the decision of purchasing. 
+We could break down why unpaid group rated higher than paid group through qualitative data collection to see which factors affect the result. 
